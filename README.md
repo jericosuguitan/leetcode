@@ -9,3 +9,4 @@
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./cpp/peakIndexInAMountainArray.cpp)|EASY|
 |1470|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./cpp/shuffleTheArray.cpp)|EASY|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[C++](./cpp/findTheDistanceValueBetweenTwoArrays.cpp)|EASY|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./cpp/intersectionOfTwoArrays.cpp)|EASY|
