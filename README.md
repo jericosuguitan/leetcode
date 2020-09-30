@@ -11,3 +11,4 @@
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[C++](./cpp/findTheDistanceValueBetweenTwoArrays.cpp)|EASY|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./cpp/intersectionOfTwoArrays.cpp)|EASY|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./cpp/splitAStringInBalancedStrings.cpp)|EASY|
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./cpp/diStringMatch.cpp)|EASY|
