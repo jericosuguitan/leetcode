@@ -12,3 +12,4 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./cpp/intersectionOfTwoArrays.cpp)|EASY|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./cpp/splitAStringInBalancedStrings.cpp)|EASY|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./cpp/diStringMatch.cpp)|EASY|
+|1528|[Shuffle Strings](https://leetcode.com/problems/shuffle-string/)|[C++](./cpp/shuffleStrings.cpp)|EASY|
