@@ -13,3 +13,4 @@
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./cpp/splitAStringInBalancedStrings.cpp)|EASY|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./cpp/diStringMatch.cpp)|EASY|
 |1528|[Shuffle Strings](https://leetcode.com/problems/shuffle-string/)|[C++](./cpp/shuffleStrings.cpp)|EASY|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./cpp/reverseString.cpp)|EASY|
