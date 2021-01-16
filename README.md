@@ -14,3 +14,4 @@
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./cpp/diStringMatch.cpp)|EASY|
 |1528|[Shuffle Strings](https://leetcode.com/problems/shuffle-string/)|[C++](./cpp/shuffleStrings.cpp)|EASY|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./cpp/reverseString.cpp)|EASY|
+|1417|[Reformat the String](https://leetcode.com/problems/reformat-the-string/)|[C++](./cpp/reformatTheString.cpp)|EASY|
