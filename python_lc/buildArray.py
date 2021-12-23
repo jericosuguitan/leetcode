@@ -5,7 +5,7 @@
 
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
-        ans = [];
+        ans = []
         
         for i in nums:
             ans.append(nums[i])
